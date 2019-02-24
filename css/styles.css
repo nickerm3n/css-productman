@@ -52,6 +52,9 @@ a {
 	text-decoration: none;
 }
 
+a:hover {
+	color: #e10011;
+}
 
 .navigation {
 	margin-top: 45px;
@@ -82,9 +85,6 @@ a {
 	padding: 0 38px 0 0;
 }
 
-.ass:hover {
-	color: red;
-}
 
 .text-subsection {
 	width: 52%;
